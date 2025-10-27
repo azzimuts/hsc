@@ -1,1 +1,16 @@
-# hsc
+## HSC / HESC / HSYS-домени
+
+- [hscterra.shop](https://hscterra.shop)
+- [rise-hesc.site](https://rise-hesc.site)
+- [sparkhs.online](https://sparkhs.online)
+- [alpha-hsys.online](https://alpha-hsys.online)
+- [aura-hsc.space](https://aura-hsc.space)
+- [beta-hasc.shop](https://beta-hasc.shop)
+- [corehesc.site](https://corehesc.site)
+- [delta-hescor.store](https://delta-hescor.store)
+- [fluxhsc.shop](https://fluxhsc.shop)
+- [gamma-hesk.space](https://gamma-hesk.space)
+- [lumenhsc.space](https://lumenhsc.space)
+- [novahesc.online](https://novahesc.online)
+- [omega-hasc.site](https://omega-hasc.site)
+- [orbit-hsys.store](https://orbit-hsys.store)
